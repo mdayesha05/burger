@@ -1,0 +1,55 @@
+form{
+    border:solid 1px white;
+    width: 450px;
+    padding-left: 10px;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+body{
+    background-image: url(bur.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 600px;
+}
+label{
+    color:white;
+    font-size: 23px;
+    font-weight: bold;
+}
+h1{
+    color: rgb(153, 106, 18);
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: whitesmoke ;
+    border-bottom-width:2px ;
+    color:white;
+    font-size: 20px;
+
+}
+textarea{
+    width: 300px;
+    height:90px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(179, 163, 74);
+    color: white;
+    font-size:20px ;
+    border-radius: 10px;
+}
+#avatar{
+    border-radius: 50%;
+    position: relative;
+    left: 270px;
+    top:50px;
+    
+    
+}
